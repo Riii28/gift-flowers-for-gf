@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-    title: "Flowers for your girlfriend",
+    title: "Flowers for girlfriend",
     description: "Flowers",
     keywords: ["flowers", "romantic gifts", "flowers for girlfriend", "special gifts", "bouquet", "love", "anniversary gift"],
     icons: {
